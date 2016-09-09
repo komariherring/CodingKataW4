@@ -6,10 +6,19 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		EE98D0D31D82FF2200D7F230 /* CoinToss.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CoinToss.m; sourceTree = "<group>"; };
+		EE98D0D41D82FF4800D7F230 /* Seconds.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Seconds.m; sourceTree = "<group>"; };
+		EE98D0D51D82FF9A00D7F230 /* Testing.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Testing.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		EE98D0CC1D82FF0400D7F230 = {
 			isa = PBXGroup;
 			children = (
+				EE98D0D31D82FF2200D7F230 /* CoinToss.m */,
+				EE98D0D41D82FF4800D7F230 /* Seconds.m */,
+				EE98D0D51D82FF9A00D7F230 /* Testing.m */,
 			);
 			sourceTree = "<group>";
 		};
